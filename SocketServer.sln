@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SocketServer", "SocketServer.csproj", "{B4ADFE5A-DE9B-4E01-BE28-E54A0267E326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeClient", "..\TimeClient\TimeClient.csproj", "{143ABFFE-50AE-4DF1-B688-7E7D8DAB6206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ADFE5A-DE9B-4E01-BE28-E54A0267E326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ADFE5A-DE9B-4E01-BE28-E54A0267E326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ADFE5A-DE9B-4E01-BE28-E54A0267E326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ADFE5A-DE9B-4E01-BE28-E54A0267E326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{143ABFFE-50AE-4DF1-B688-7E7D8DAB6206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143ABFFE-50AE-4DF1-B688-7E7D8DAB6206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{143ABFFE-50AE-4DF1-B688-7E7D8DAB6206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143ABFFE-50AE-4DF1-B688-7E7D8DAB6206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78203A4F-F544-4FBA-8A85-4F061CF78645}
+	EndGlobalSection
+EndGlobal
